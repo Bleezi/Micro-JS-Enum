@@ -1,22 +1,22 @@
 {
-	name: "micro-enum",
-	version: "1.0.0",
-	description: "A very, very tiny JavaScript enum implementation",
-	main: "index.js",
-	repository: {
-		type: "git",
-		url: "https://github.com/BlueHuskyStudios/Micro-JS-Enum"
+	"name": "micro-enum",
+	"version": "1.0.0",
+	"description": "A very, very tiny JavaScript enum implementation",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BlueHuskyStudios/Micro-JS-Enum"
 	},
-	author: "Kyli Rouge <Kyli@BHStudios.org>",
-	maintainers: [
+	"author": "Kyli Rouge <Kyli@BHStudios.org>",
+	"maintainers": [
 		{
-			name: "Kyli Rouge",
-			url: "https://github.com/Supuhstar"
+			"name": "Kyli Rouge",
+			"url": "https://github.com/Supuhstar"
 		},
 		{
-			name: "Tolga Ekmen",
-			url: "https://github.com/tolgaek"
+			"name": "Tolga Ekmen",
+			"url": "https://github.com/tolgaek"
 		}
 	],
-	license: "MIT"
+	"license": "MIT"
 }
